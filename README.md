@@ -1,4 +1,12 @@
 # KELOMPOK 1
+![Group 1](https://user-images.githubusercontent.com/85054950/207565872-8fc4a549-27bb-4d2d-bb49-46088ea38888.png)
+
+[![Generic badge](https://img.shields.io/badge/51-Iqbal-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/52-Pasha-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/54-Lustiyana-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/55-Asma-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/56-Denta-<COLOR>.svg)](https://shields.io/)
+
 # VISUALISASI DATA
 
 
