@@ -1,10 +1,11 @@
 # KELOMPOK 1
-![Group 1](https://user-images.githubusercontent.com/85054950/207565872-8fc4a549-27bb-4d2d-bb49-46088ea38888.png)
+![Group 1](https://user-images.githubusercontent.com/85054950/207575804-1b612218-1e41-49e8-9ded-af1c6dd2b660.png)
 
-[![Generic badge](https://img.shields.io/badge/51-Iqbal-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/52-Pasha-<COLOR>.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/51-Iqbal%20Putra-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/52-Pasha%20Arifin-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/54-Lustiyana-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/55-Asma-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/55-Asma%20Zulfikar-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/56-Denta-<COLOR>.svg)](https://shields.io/)
 
 # VISUALISASI DATA
@@ -22,7 +23,6 @@
 Anggota:<br>
 * Asma Zulfiah Malik
 * Dzikri Wijaya Hartanto
-* Gail Zulvan
 * Iqbal Putra Ramadhan
 * Lustiyana
 * Denta Pratama Anggayana
@@ -101,7 +101,7 @@ Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai
 
 ---
 
-## DASHBOA
+## DASHBOARD
 
 ---
 
