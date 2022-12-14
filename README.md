@@ -17,6 +17,7 @@ Anggota:<br>
 * Gail Zulvan
 * Iqbal Putra Ramadhan
 * Lustiyana
+* Denta Pratama Anggayana
 
 
 
