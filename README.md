@@ -85,5 +85,5 @@ Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai
 
 ## Data Visualization
 
-![image](https://user-images.githubusercontent.com/85054950/207548924-2606e920-d396-4725-90cb-84e04a5ffdf3.png)
+![image](https://user-images.githubusercontent.com/85054950/207549152-77f57691-dfd7-4bf2-9044-6905b1b91e0c.png)
 
