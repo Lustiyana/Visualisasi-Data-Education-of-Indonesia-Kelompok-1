@@ -92,7 +92,6 @@ Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai
 
 
 ## Data Visualization
----
 Grafik dibawah menunjukan rata rata penyelesaian pendidikan data SD
 <br>
 ![image](https://user-images.githubusercontent.com/85054950/208449001-14d3e889-b87f-492c-89c6-392bdc11cc58.png)
