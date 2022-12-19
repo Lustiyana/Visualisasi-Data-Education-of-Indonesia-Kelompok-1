@@ -92,8 +92,19 @@ Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai
 
 
 ## Data Visualization
+---
+Grafik dibawah menunjukan rata rata penyelesaian pendidikan data SD
+<br>
+![image](https://user-images.githubusercontent.com/85054950/208449001-14d3e889-b87f-492c-89c6-392bdc11cc58.png)
+Grafik dibawah menunjukan rata rata penyelesaian pendidikan data SMP
+<br>
+![image](https://user-images.githubusercontent.com/85054950/208449136-fd0d9cdf-9551-4866-a73b-108eac048db7.png)
+Grafik dibawah menunjukan rata rata penyelesaian pendidikan data SMA
+<br>
+![image](https://user-images.githubusercontent.com/85054950/208449214-aba6ff9a-4611-4f60-880f-c49c19e44a4f.png)
 
-![image](https://user-images.githubusercontent.com/85054950/207549152-77f57691-dfd7-4bf2-9044-6905b1b91e0c.png)
+
+
 
 ## MODELING
 Modeling dibuat dengan bahasa python dengan bantuan library seaborn dan matplotlib dengan detail pada link berikut:
@@ -103,6 +114,7 @@ Modeling dibuat dengan bahasa python dengan bantuan library seaborn dan matplotl
 ---
 
 ## DASHBOARD
-
+Berikut Dashboard untuk keseluruhan data terkait penyelesaian pendidikan di indonesia
+![image](https://user-images.githubusercontent.com/85054950/207549152-77f57691-dfd7-4bf2-9044-6905b1b91e0c.png)
 ---
 
