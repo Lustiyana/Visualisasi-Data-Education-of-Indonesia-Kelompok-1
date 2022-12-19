@@ -3,7 +3,7 @@
 
 
 [![Generic badge](https://img.shields.io/badge/51-Iqbal%20Putra-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/52-Pasha%20Arifin-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/52-Pasha%20Alvan-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/54-Lustiyana-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/21-Asma%20Zulfiah-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/56-Denta-<COLOR>.svg)](https://shields.io/)
@@ -18,11 +18,10 @@
 
 
 
-### Ketua Proyek:Pasya Alvan Gail Zulvan
+### Ketua Proyek:Pasya Alvan Gail 
 
 Anggota:<br>
 * Asma Zulfiah Malik
-* Dzikri Wijaya Hartanto
 * Iqbal Putra Ramadhan
 * Lustiyana
 * Denta Pratama Anggayana
@@ -30,7 +29,7 @@ Anggota:<br>
 
 
 #CRISP-DM
-(CRoss-Industry Standard Process for Data Mining) merupakan suatu konsorsium perusahaan yang didirikan oleh Komisi Eropa pada tahun 1996 dan telah ditetapkan sebagai proses standar dalam data mining yang dapat diaplikasikan di berbagai sektor industri. Gambar menjelaskan tentang siklus hidup pengembangan data mining.
+(Cross-Industry Standard Process for Data Mining) merupakan suatu konsorsium perusahaan yang didirikan oleh Komisi Eropa pada tahun 1996 dan telah ditetapkan sebagai proses standar dalam data mining yang dapat diaplikasikan di berbagai sektor industri. Gambar menjelaskan tentang siklus hidup pengembangan data mining.
 
 
 ## Business Understanding
