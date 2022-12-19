@@ -3,7 +3,7 @@
 
 
 [![Generic badge](https://img.shields.io/badge/51-Iqbal%20Putra-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/52-Pasha%20Alvan-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/52-Pasya%20Alvan-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/54-Lustiyana-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/21-Asma%20Zulfiah-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/56-Denta-<COLOR>.svg)](https://shields.io/)
