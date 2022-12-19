@@ -98,6 +98,7 @@ Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai
 
 ## MODELING
 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lustiyana/Visualisasi-Data-Education-of-Indonesia-Kelompok-1/blob/main/Visualisasi_Data_Kelompok_1.ipynb)
 
 ---
 
