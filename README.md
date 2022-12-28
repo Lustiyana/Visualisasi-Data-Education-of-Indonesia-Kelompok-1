@@ -81,13 +81,42 @@ Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai
 
 | TAHUN | PROVINCE  | TP SD | TP SMP | TP SMA | MH Perempuan | TP Laki-Laki |
 | ----- | --------- | ----- | ------ | ------ | ------------ | ------------ |
-|2015	|90.47970588	|78.10558824	|52.85470588|
-|2016	|92.63382353	|82.18411765	|59.93117647|
-|2017	|93.48382353	|82.76823529	|60.81029412|
-|2018	|93.03441176	|83.53676471	|61.19441176|
-|2019	|93.77764706	|84.00205882	|59.06941176|
-|2020	|94.83764706	|86.49764706	|64.58323529|
-|2021	|96.36705882	|88.32264706	|65.51058824|
+|2015|Aceh
+|2015|Sumatera Utara
+|2015|Sumatera Barat
+|2015|Riau
+|2015|Jambi
+|2015|Sumatera Selatan
+|2015|Bengkulu
+|2015|Lampung
+|2015|Kepulauan Bangka Belitung
+|2015|Kepulauan Riau
+|2015|DKI Jakarta
+|2015|Jawa Barat
+|2015|Jawa Tengah
+|2015|DI Yogyakarta
+|2015|Jawa Timur
+|2015|Banten
+|2015|Bali
+|2015|Nusa Tenggara Barat
+|2015|Nusa Tenggara Timur
+|2015|Kalimantan Barat
+|2015|Kalimantan Tengah
+|2015|Kalimantan Selatan
+|2015|Kalimantan Timur
+|2015|Kalimantan Utara
+|2015|Sulawesi Utara
+|2015|Sulawesi Tengah
+|2015|Sulawesi Selatan
+|2015|Sulawesi Tenggara
+|2015|Gorontalo
+|2015|Sulawesi Barat
+|2015|Maluku
+|2015|Maluku Utara
+|2015|Papua Barat
+|2015|Papua
+|...|...
+|2021|Papua
 
 
 
