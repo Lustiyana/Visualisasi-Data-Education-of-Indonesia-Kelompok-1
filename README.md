@@ -77,7 +77,7 @@ Untuk mempermudah dalam memvisualisasikan data, maka dilakukan persiapan data ya
 Untuk menunjang tujuan teknis serta mempermudah dalam memvisualisasikan data, maka data yang disiapkan hanya data dari negara Indonesia saja.
 
 ### Merapihkan kategori sekolah
-Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai dengan sekolah menengah astas (SMA), diambil rata-rata nya sebagai berikut.
+Pada sumber data yang digunakan, diambil data Tingkat Penyelesaian SD, SMP, SMA dan juga Angka Melek Huruf berdasarkan tahun dan provinsi.
 
 | TAHUN | PROVINCE  | TP SD | TP SMP | TP SMA | MH Perempuan | MH Laki-Laki |
 | ----- | --------- | ----- | ------ | ------ | ------------ | ------------ |
