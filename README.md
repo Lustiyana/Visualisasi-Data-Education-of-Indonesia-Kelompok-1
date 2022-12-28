@@ -79,8 +79,8 @@ Untuk menunjang tujuan teknis serta mempermudah dalam memvisualisasikan data, ma
 ### Merapihkan kategori sekolah
 Pada sumber data yang digunakan, terdapat banyak murid sekolah dasar (SD) sampai dengan sekolah menengah astas (SMA), diambil rata-rata nya sebagai berikut.
 
-| TAHUN | SD  | SMP | SMA |
-| ----- | --- | --- | --- |
+| TAHUN | PROVINCE  | TP SD | TP SMP | TP SMA | MH Perempuan | TP Laki-Laki |
+| ----- | --------- | ----- | ------ | ------ | ------------ | ------------ |
 |2015	|90.47970588	|78.10558824	|52.85470588|
 |2016	|92.63382353	|82.18411765	|59.93117647|
 |2017	|93.48382353	|82.76823529	|60.81029412|
